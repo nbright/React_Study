@@ -1,3 +1,0 @@
-# React_Study
-
-Nomad React 강좌를 들으며 git 도 공부
